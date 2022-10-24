@@ -1,1 +1,0 @@
-print ("hi i am greedy and i love nina so much")
